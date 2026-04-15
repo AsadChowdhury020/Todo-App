@@ -44,7 +44,7 @@ src/
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/todo-app.git](https://github.com/AsadChowdhury020/Todo-App
+git clone https://github.com/AsadChowdhury020/Todo-App
 ```
 
 2. Navigate to project folder  
